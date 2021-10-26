@@ -1,0 +1,575 @@
+﻿@model NewPixelDraw.Models.Wordforfamiliarity
+
+
+<html>
+<head>
+    <style>
+        body {
+            overflow-x: hidden;
+        }
+        .chatboxs {
+            background-color: lightgrey;
+            width: 240px;
+            border: 5px solid green;
+            padding: 50px;
+            margin: 20px;
+            height: 400px;
+            overflow-y: scroll;
+        }
+
+        .chat {
+            background-color: lightgrey;
+            width: 240px;
+            border: 5px solid red;
+            padding: 10px;
+            margin: 20px;
+            height: 30px;
+            margin-top: -15px;
+        }
+
+        .left {
+            margin-left: -40px;
+        }
+
+
+        .Error {
+            color: red;
+            position: absolute;
+            left: 30%;
+            top: 14%;
+        }
+
+
+
+
+
+        .alert {
+            padding: 20px;
+            background-color: #f44336;
+            color: white;
+        }
+
+        .pes {
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            margin-left: 20px;
+        }
+
+        #myDIV {
+            border: 1px solid black;
+            background-color: lightblue;
+            width: 300px;
+            height: 300px;
+            position: relative;
+            top: 20px;
+        }
+
+        #Color {
+            width: 50px;
+            height: 50px;
+            background-color: rebeccapurple;
+            position: absolute;
+            margin-left: 300px;
+        }
+        @@media only screen and (max-width: 600px) {
+            .Error {
+                color: red;
+                position: absolute;
+                left: 20%;
+                top: 14%;
+            }
+
+        }
+    </style>
+</head>
+<body>
+    <p id="Timer"></p>
+    @if (Session["Username"] == null)
+    {
+        <h2 class="Error">You are not login :<a href="@Url.Action("CreateAcc", "Home")">LoginAndRegistarationlink </a></h2>
+    }
+
+    @if (Session["Username"] != null)
+    {
+        <h1 style="left:10%; color:burlywood;position: absolute;" id="Words"></h1>
+        <h2 id="Winersss" style="left:40%; position:absolute;color:cornflowerblue"></h2>
+        <br />
+        <form method="post">
+            @if (Request.Browser.Browser == "Chrome")
+            {
+                <div id="Color" onclick="fuctions()"></div>
+
+                <div class="form-group" style="display:none">
+                    <label for="position">Password</label>
+                    <input type="password" onkeydown="myFunction()" class="form-control" name="position" id="position" placeholder="position">
+                </div>
+
+                <div class="form-group" style="display:none">
+                    <label for="color">Password</label>
+                    <input type="password" onkeydown="myFunction()" onkeyup="myFunction()" class="form-control" name="color" id="color" placeholder="color">
+                </div>
+                <input id="red" type="range" min="0" max="255" value="50" onclick="myFunctions()">
+                <input id="green" type="range" min="0" max="255" value="50" onclick="myFunctions()">
+                <input id="blue" type="range" min="0" max="255" value="50" onclick="myFunctions()">
+
+                <p id="posts">2</p>
+
+                // Allow
+
+                for (int i = 0; i < ((650 * 100)); i += 10)
+                {
+
+                    if (i % 20 == 0)
+                    {
+                        <div id="demo-@i" onmousemove="myFunction(this)" onmousedown="myFunction2(this)" style="background-color: navajowhite; margin-top:200px" class="pes"></div>
+                    }
+                    else
+                    {
+                        <div id="demo-@i" onmousemove="myFunction(this)" onmousedown="myFunction2(this)" style="background-color: darkgrey; margin-top:200px" class="pes"></div>
+                    }
+
+                }
+
+            }
+        </form>
+        <div style="margin-left: 940px; margin-top: 90px;">
+            <div id="chatbox" class="chatboxs"><big style="color:red">ChatBox</big><br /></div>
+            <form method="post" id="forms">
+
+                <p style="margin-left:20px" class="left"> Chat</p>
+                <input class="chat" type="text" id="chat" name="chat">
+
+            </form>
+            <button class="btn btn-success" style="margin-left:20px" onclick="cht()">sumbit</button>
+        </div>
+
+    if (Request.Browser.Browser != "Chrome")
+    {
+        TempData["msg"] = "<script>alert('Change browser on Chrome');</script>";
+        @Html.Raw(TempData["msg"])
+    }
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+
+    <script>
+
+         var input = document.getElementById("chat");
+        input.addEventListener("keyup", function (event) {
+            if (event.keyCode === 13) {
+                cht();
+                return false;
+            }
+        });
+        $("chat").ready(function () {
+            $(window).keydown(function (event) {
+                if (event.keyCode == 13) {
+                    event.preventDefault();
+                    return false;
+                }
+            });
+        });
+        var element = document.getElementById("chatbox");
+        function cht() {
+            DoAjaxPostAndMore2();
+            var messig = $("#chat").val();
+            var para = document.createElement("small");
+            var br = document.createElement("br");
+            var node = document.createTextNode(messig.toString());
+            para.appendChild(node);
+            para.className = "left";
+         
+            element.appendChild(para);
+            element.appendChild(br);
+            
+            $("#chat").val("");
+        }
+        function cht2() {
+
+            $("#chat").val("");
+        }
+
+
+
+        var ChatR = '@ViewBag.roombox';
+        var chat = 0;
+        setInterval(Chat, 500);
+        function Chat() {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/Chat/' + ChatR,
+                dataType: 'json',
+                success: function (data) {
+
+                       
+                           
+                      
+                
+                  
+                   for (chat; chat < data.length; chat++) {
+                    
+                        if (data[chat].player != "@Session["Username"]") {
+                            var para = document.createElement("small");
+                            var br = document.createElement("br");
+                            var node = document.createTextNode(data[chat].Chat);
+                            para.appendChild(node);
+                            para.className = "left";
+
+                            element.appendChild(para);
+                            element.appendChild(br);
+                        }
+                        
+                       }
+                   
+
+                         //for (var i = items; i < data.length; i++) {
+
+                       //      items++;
+
+                       //  document.getElementById(data[items].PixiPosition).style.backgroundColor = data[items].Colors;
+                      //   if (items == data.length - 1) {
+                         //   refresh();
+                         //} 
+                      // }
+                    // }
+
+                }
+            });
+        }
+
+
+
+          var ChatW = '@ViewBag.roombox';
+    
+         function Wordff() {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/Word/' + ChatW,
+                dataType: 'json',
+                success: function (data) {
+
+                       
+                           
+
+                    document.getElementById("Winersss").innerHTML = "Word1 :" + data[0].P1 + "; Word2 : " + data[0].P2 + "; Word3 : " + data[0].P3 + "; Word4 : " + data[0].P4;
+                    
+                   
+
+                         //for (var i = items; i < data.length; i++) {
+
+                       //      items++;
+
+                       //  document.getElementById(data[items].PixiPosition).style.backgroundColor = data[items].Colors;
+                      //   if (items == data.length - 1) {
+                         //   refresh();
+                         //} 
+                      // }
+                    // }
+
+                }
+            });
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        var colors = document.getElementById("color");
+        var position = document.getElementById("position");
+
+        var red = 102;
+        var green = 51;
+        var blue = 153;
+        var down = 0;
+        document.addEventListener("mousedown", mouseDown);
+        document.addEventListener("mouseup", mouseUp);
+
+
+        function fuctions() {
+            var s = "rgb(" + red.toString() + "," + green.toString() + "," + blue.toString() + ")";
+            bot = 0;
+
+
+            right = 0;
+            for (var i = 0; i < ((650 * 100)); i += 10) {
+                bot += 10;
+
+
+                document.getElementById("demo-" + i.toString()).style.backgroundColor = s;
+
+                if (bot == 650) {
+                    bot = 0;
+                    right += 10;
+
+
+                }
+
+
+
+            }
+        }
+        function mouseDown() {
+            if ("@Session["Username"]" == PlayerTurn) {
+                down = 1;
+            }
+        }
+
+        function mouseUp() {
+            if ("@Session["Username"]" == PlayerTurn) {
+                down = 0;
+            }
+        }
+        function myFunctions() {
+            if ("@Session["Username"]" == PlayerTurn) {
+                red = document.getElementById("red").value;
+                green = document.getElementById("green").value;
+                blue = document.getElementById("blue").value;
+                document.getElementById("Color").style = " background-color: rgb(" + red.toString() + " ,  " + green.toString() + " , " + blue.toString() + ");"
+            }
+              }
+
+        var s = 600;
+        var bot = 0;
+        var right = 0;
+        for (var i = 0; i < ((650 * 100)); i += 10) {
+            bot += 10;
+
+
+            document.getElementById("demo-" + i.toString()).style.left = right.toString() + "px";
+
+            document.getElementById("demo-" + i.toString()).style.top = bot.toString() + "px";
+            if (bot == 650) {
+                bot = 0;
+                right += 10;
+
+
+            }
+
+
+
+        }
+
+
+
+        function myFunction(x) {
+            if ("@Session["Username"]" == PlayerTurn) {
+                if (down == 1) {
+                    var s = "rgb(" + red.toString() + "," + green.toString() + "," + blue.toString() + ")";
+                    bot = 0;
+
+                    x.style.backgroundColor = s;
+                    right = 0;
+                    colors.value = s;
+                    position.value = x.id;
+                    DoAjaxPostAndMore(x);
+                }
+            }
+
+        }
+        function myFunction2(x) {
+            if ("@Session["Username"]" == PlayerTurn) {
+                var s = "rgb(" + red.toString() + "," + green.toString() + "," + blue.toString() + ")";
+                bot = 0;
+
+                x.style.backgroundColor = s;
+                right = 0;
+                colors.value = s;
+                position.value = x.id;
+                DoAjaxPostAndMore(x);
+            }
+        }
+
+        function DoAjaxPostAndMore2() {
+        
+                var $form = $("#forms");
+
+                $.ajax({
+                    type: "POST",
+                    url: $form.attr('action'),
+                    data: $form.serialize(),
+
+
+                });
+
+                return false;// if it's a link to prevent post
+            
+        }
+        function DoAjaxPostAndMore(btnClicked) {
+            if ("@Session["Username"]" == PlayerTurn) {
+                var $form = $(btnClicked).parents('form');
+
+                $.ajax({
+                    type: "POST",
+                    url: $form.attr('action'),
+                    data: $form.serialize(),
+
+
+                });
+
+                return false;// if it's a link to prevent post
+            }
+        }
+        var items = 0;
+        var Ev;
+        var room = '@ViewBag.roombox';
+        setInterval(refresh, 500);
+        function refresh() {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/testajax/' + room,
+                dataType: 'json',
+                success: function (data) {
+
+                    $.each(data, function (index, value) {
+                        if (value.PixiPosition != null) {
+                            document.getElementById(value.PixiPosition.toString()).style.backgroundColor = value.Colors.toString();
+                        }
+
+                    });
+                   
+
+                    //     for (var i = items; i < data.length; i++) {
+
+                    //         items++;
+
+                    //     document.getElementById(data[items].PixiPosition).style.backgroundColor = data[items].Colors;
+                    //     if (items == data.length - 1) {
+                    //          refresh();
+                    //      } 
+                    //   }
+                    //  }
+
+                }
+            });
+        }
+        var StartGame = 0;
+        var PlayerTurn = "";
+        var Timer = 0;
+        var plaer11 = "";
+        var plaer22 = "";
+        var plaer33 = "";
+        var plaer44 = "";
+        var Players = '@ViewBag.roombox';
+        if (StartGame < 1) {
+        setInterval(PlayerWait, 1000);
+        }
+        function PlayerWait() {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/Room/' + Players,
+                dataType: 'json',
+                success: function (data) {
+
+                    if (StartGame < 1) {
+                        if (data[0].player1 != null) {
+                             plaer11 = data[0].player1.toString() ;
+                            if (data[0].player2 != null) {
+                                plaer22 = data[0].player2.toString();
+                                if (data[0].player3 != null) {
+                                    plear33 = data[0].player3.toString();
+                                    if (data[0].player4 != null) {
+
+                                        plear44 = data[0].player3.toString();
+
+                                        StartGame++;
+
+                                    }
+                                }
+                            }
+                        }
+                    }
+                
+                    //     for (var i = items; i < data.length; i++) {
+
+                    //         items++;
+
+                    //     document.getElementById(data[items].PixiPosition).style.backgroundColor = data[items].Colors;
+                    //     if (items == data.length - 1) {
+                    //          refresh();
+                    //      }
+                    //   }
+                    //  }
+
+                }
+            });
+        }
+
+        var YourWord = "";
+        function yourturn() {
+            if ("@Session["Username"]" == plaer11 && Timer < 50) {
+                YourWord = "@Model.Word1";
+
+                document.getElementById("Words").innerHTML = "Your Word: " + YourWord;
+
+                
+            } 
+            
+            if ( "@Session["Username"]" == plaer22 && Timer < 100 && Timer > 50 ) {
+                YourWord = "@Model.Word2";
+                document.getElementById("Words").innerHTML = "Your Word: " + YourWord;
+              
+            } 
+
+            if ( "@Session["Username"]" == plaer33 && Timer < 150 && Timer > 100 ) {
+                YourWord = "@Model.Word3";
+                document.getElementById("Words").innerHTML = "Your Word: " + YourWord;
+                
+            } 
+
+            if ( "@Session["Username"]" == plaer44 && Timer < 200 && Timer > 150) {
+                YourWord = "@Model.Word4";
+                document.getElementById("Words").innerHTML = "Your Word: " + YourWord;
+                
+            }
+
+
+        }
+
+        setInterval(Letsplay, 1000);
+        function Letsplay() {
+            if (StartGame == 1) {
+                yourturn();
+                Timer++;
+                document.getElementById("Timer").innerText = Timer;
+               
+                
+
+                if (Timer < 50) {
+                    PlayerTurn = plaer11;
+                }
+                if (Timer < 100 && Timer > 50) {
+                    PlayerTurn = plaer22;
+                }
+                if (Timer < 150 && Timer > 100) {
+                    PlayerTurn = plaer33;
+                }
+                if (Timer < 200 && Timer > 150) {
+                    PlayerTurn = plaer44;
+                }
+                if (Timer == 201) {
+                    Wordff();
+
+                }
+                if (Timer > 220) {
+                    window.location.replace("Home/Index/" + "@ViewBag.roombox");
+                }
+
+            }
+        }
+        
+
+    </script>
+
+    }
+
+</body>
+</html>
+    

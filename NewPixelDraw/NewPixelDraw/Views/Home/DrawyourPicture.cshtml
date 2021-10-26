@@ -1,0 +1,176 @@
+﻿
+
+@{
+
+    
+}
+<html>
+<head>
+    <style>
+        .alert {
+            padding: 20px;
+            background-color: #f44336;
+            color: white;
+        }
+
+        .pes {
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            margin-left: 20px;
+        }
+
+        #myDIV {
+            border: 1px solid black;
+            background-color: lightblue;
+            width: 300px;
+            height: 300px;
+            position: relative;
+            top: 20px;
+        }
+
+        #Color {
+            width: 50px;
+            height: 50px;
+            background-color: rebeccapurple;
+            position: absolute;
+            
+            margin-left: 300px;
+        }
+    </style>
+</head>
+<body>
+    <br />
+    <form  id="posts" method="post">
+        @if (Request.Browser.Browser == "Chrome")
+        {
+            <div id="Color" onclick="fuctions()"></div>
+
+
+            <input id="red" type="range" min="0" max="255" value="50" onclick="myFunctions()">
+            <input id="green" type="range" min="0" max="255" value="50" onclick="myFunctions()">
+            <input id="blue" type="range" min="0" max="255" value="50" onclick="myFunctions()">
+
+            <p id="posts">2</p>
+
+            // Allow
+            
+            for (int i = 0; i < ((650 * 100)); i += 10)
+            {
+
+                if (i % 20 == 0)
+                {
+                    <div id="demo-@i"  onmousemove="myFunction(this)"  onmousedown="myFunction2(this)" style="background-color: navajowhite; margin-top:200px" class="pes"></div>
+                }
+                else
+                {
+                    <div id="demo-@i"  onmousemove="myFunction(this)"   onmousedown="myFunction2(this)" style="background-color: darkgrey; margin-top:200px" class="pes"></div>
+                }
+
+            }
+
+        }
+        </form>
+        @if (Request.Browser.Browser != "Chrome")
+        {
+            TempData["msg"] = "<script>alert('Change browser on Chrome');</script>";
+            @Html.Raw(TempData["msg"])
+        }
+
+        <script>
+
+            var red = 102;
+            var green = 51;
+            var blue = 153;
+            var down = 0;
+            document.addEventListener("mousedown", mouseDown);
+            document.addEventListener("mouseup", mouseUp);
+            function fuctions() {
+                var s = "rgb(" + red.toString() + "," + green.toString() + "," + blue.toString() + ")";
+                bot = 0;
+
+
+                right = 0;
+                for (var i = 0; i < ((650 * 100)); i += 10) {
+                    bot += 10;
+
+
+                    document.getElementById("demo-" + i.toString()).style.backgroundColor = s;
+
+                    if (bot == 650) {
+                        bot = 0;
+                        right += 10;
+
+
+                    }
+
+
+
+                }
+            }
+            function mouseDown() {
+                down = 1;
+            }
+
+            function mouseUp() {
+                down = 0;
+            }
+            function myFunctions() {
+                red = document.getElementById("red").value;
+                green = document.getElementById("green").value;
+                blue = document.getElementById("blue").value;
+                document.getElementById("Color").style = " background-color: rgb(" + red.toString() + " ,  " + green.toString() + " , " + blue.toString() + ");"
+            }
+
+            var s = 600;
+            var bot = 0;
+            var right = 0;
+            for (var i = 0; i < ((650 * 100)); i += 10) {
+                bot += 10;
+
+
+                document.getElementById("demo-" + i.toString()).style.left = right.toString() + "px";
+
+                document.getElementById("demo-" + i.toString()).style.top = bot.toString() + "px";
+                if (bot == 650) {
+                    bot = 0;
+                    right += 10;
+
+
+                }
+
+               
+            
+            }
+
+
+
+            function myFunction(x) {
+                if (down == 1) {
+                    var s = "rgb(" + red.toString() + "," + green.toString() + "," + blue.toString() + ")";
+                    bot = 0;
+
+                    x.style.backgroundColor =  s;
+                    right = 0;
+                    document.getElementById("posts").submit();
+                }
+              
+
+            }
+            function myFunction2(x) {
+
+                var s = "rgb(" + red.toString() + "," + green.toString() + "," + blue.toString() + ")";
+                bot = 0;
+
+                x.style.backgroundColor = s;
+                right = 0;
+              
+                document.getElementById("posts").submit();
+
+            }
+        </script>
+
+
+
+</body>
+</html>

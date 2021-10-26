@@ -1,0 +1,49 @@
+﻿
+<style>
+
+    body {
+        height:100%;
+        width:100%;
+        position:absolute;
+        background: url('../../IMG/Background1.png');
+    
+    }
+
+    .Move {
+        outline: 0;
+        position: absolute;
+        left: 43.5%;
+        top: 20%
+    }
+
+    @@media only screen and (max-width: 600px) {
+        .Move {
+            outline: 0;
+            position: absolute;
+            left: 33.5%;
+            top: 20%
+        }
+
+    }
+</style>
+
+
+<div >
+    <h2 style="position:absolute; top:40%; left:40%">Required for start game are 4 player in room </h2>
+    <img id="IMG" onmouseup="Mouseup()" onmousedown="Mouseclick()" onmouseover="Mouseover()" onmouseout="Mouseout()" class="Move" src="/IMG/pixil-frame-0 (5).png" />
+</div>
+<script>
+    function Mouseover() {
+        document.getElementById("IMG").src = "/IMG/pixil-frame-0 (6).png";
+    }
+    function Mouseout() {
+        document.getElementById("IMG").src = "/IMG/pixil-frame-0 (5).png";
+    }
+    function Mouseclick() {
+        document.getElementById("IMG").src = "/IMG/pixil-frame-0 (7).png";
+        
+    }
+    function Mouseup() {
+        location.replace("/Home/CreateAcc");
+    }
+</script>

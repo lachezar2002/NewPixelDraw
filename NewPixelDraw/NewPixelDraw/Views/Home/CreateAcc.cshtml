@@ -1,0 +1,79 @@
+﻿
+@model NewPixelDraw.Data.ApplicationDB
+@{
+    NewPixelDraw.Models.Acc pixi = new NewPixelDraw.Models.Acc();
+    pixi.Login = false;
+    pixi.Password = "red";
+    pixi.Username = "hg";
+    pixi.Id = 1;
+    ViewBag.Title = "CreateAcc";
+}
+<h2>CreateAcc</h2>
+<style>
+    .Color {
+        width: 50px;
+        height: 50px;
+        background-color: rebeccapurple;
+        
+    }
+</style>
+<form id="posts" name="posts" method="post">
+    <div class="form-group">
+        <label for="user">Password</label>
+        <input type="password" onkeydown="myFunction()" class="form-control" name="user" id="user" placeholder="Password">
+    </div>
+
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" onkeydown="myFunction()" onkeyup="myFunction()" class="form-control" name="password" id="password" placeholder="Password">
+    </div>
+
+
+    @Html.ActionLink("About", "About", "Home")
+    <div class="Color" type="submit" onclick="DoAjaxPostAndMore(this)" style=" background-color:@Model.Acc.ToList()[Model.Acc.ToList().Count - 1].Username " id="sumbit">Submit</div>
+</form>
+
+
+
+
+
+
+
+<script>
+    function DoAjaxPostAndMore(btnClicked) {
+        var $form = $(btnClicked).parents('form');
+
+        $.ajax({
+            type: "POST",
+            url: $form.attr('action'),
+            data: $form.serialize(),
+          
+            
+        });
+
+        return false;// if it's a link to prevent post
+
+    }
+    var uservalue = document.getElementById("user").value;
+    var userlenght = 0;
+    var button = document.getElementById("sumbit");
+
+    var uservalue = document.getElementById("user").value;
+    var userlenght = uservalue.length;
+    document.getElementById("pes").innerHTML = "your lenght " + userlenght.toString() + " required length:8";
+
+
+
+    function ssss() {
+        document.getElementById("posts").submit();
+
+    }
+    function myFunction() {
+
+
+
+    }
+
+</script>
+
+

@@ -1,0 +1,349 @@
+﻿
+@{
+    /**/
+
+    ViewBag.Title = "JoinRoom";
+}
+<style>
+
+    .box {
+        background-color: peru;
+        position: absolute;
+        left: 35%;
+        top: 30%;
+        height: 5%;
+        width: 30%;
+        border-radius: 8px;
+    }
+
+    .box2 {
+        background-color: greenyellow;
+        position: absolute;
+        left: 35%;
+        top: 20%;
+        height: 5%;
+        width: 30%;
+        border-radius: 8px;
+    }
+
+    input:focus {
+        background-color: peachpuff;
+        color: peru;
+    }
+
+    .inputgreen:focus {
+        background-color: green;
+        color: greenyellow;
+    }
+
+    .inputgreen2:focus {
+        background-color: green;
+        color: greenyellow;
+    }
+
+    .inputgreen2::-webkit-input-placeholder {
+        color: green;
+    }
+
+    .inputgreen::-webkit-input-placeholder {
+        color: green;
+    }
+
+    ::-webkit-input-placeholder {
+        color: peachpuff;
+    }
+
+    button:hover {
+        border: 2px solid peru;
+        color: peru;
+        background-color: peachpuff;
+    }
+
+    .input {
+        bottom: 3%;
+        height: 100%;
+        width: 40%;
+        border-radius: 8px;
+        position: absolute;
+        left: 1%;
+        outline: 0;
+        background-color: peru;
+        color: peachpuff;
+    }
+
+    .input2 {
+        bottom: 3%;
+        height: 100%;
+        width: 37%;
+        border-radius: 8px;
+        position: absolute;
+        left: 41%;
+        outline: 0;
+        background-color: peru;
+        color: peachpuff;
+    }
+
+    .inputgreen {
+        bottom: 3%;
+        height: 100%;
+        width: 40%;
+        border-radius: 8px;
+        position: absolute;
+        left: 1%;
+        outline: 0;
+        background-color: greenyellow;
+        color: green;
+    }
+
+    .inputgreen2 {
+        bottom: 3%;
+        height: 100%;
+        width: 37%;
+        border-radius: 8px;
+        position: absolute;
+        left: 41%;
+        outline: 0;
+        background-color: greenyellow;
+        color: green;
+    }
+
+    button {
+        left: 78%;
+        height: 100%;
+        width: 20%;
+        bottom: 2%;
+        color: peachpuff;
+        border-radius: 4px;
+        border: 2px solid peachpuff;
+        position: absolute;
+        background-color: peru;
+        font-size: 100%;
+        outline: 0;
+    }
+
+    .buttonRand {
+        left: 35%;
+        top: 60%;
+        height: 5%;
+        width: 30%;
+        bottom: 2%;
+        color: peru;
+        border-radius: 4px;
+        border: 2px solid peru;
+        position: absolute;
+        background-color: rebeccapurple;
+        font-size: 70%;
+        outline: 0;
+    }
+
+        .buttonRand:hover {
+            border: 2px solid rebeccapurple;
+            color: rebeccapurple;
+            background-color: peru;
+        }
+
+    .buttongreen {
+        left: 78%;
+        height: 100%;
+        width: 20%;
+        bottom: 2%;
+        color: green;
+        border-radius: 4px;
+        border: 2px solid green;
+        position: absolute;
+        background-color: greenyellow;
+        font-size: 70%;
+        outline: 0;
+    }
+
+        .buttongreen:hover {
+            border: 2px solid greenyellow;
+            color: greenyellow;
+            background-color: green;
+        }
+
+    .h2 {
+        color: green;
+        position: absolute;
+        left: 40%;
+        top: 14%;
+    }
+
+    .Error {
+        color: red;
+        position: absolute;
+        left: 30%;
+        top: 14%;
+    }
+
+    .h2peru {
+        color: peru;
+        position: absolute;
+        left: 40%;
+        top: 24%;
+    }
+
+    .Validation {
+        left: 40%;
+        top: 36%;
+        position: absolute;
+        color: red;
+    }
+
+    @@media only screen and (max-width: 600px) {
+
+
+        .buttonRand {
+            left: 35%;
+            top: 70%;
+            height: 5%;
+            width: 30%;
+            bottom: 2%;
+            color: peru;
+            border-radius: 4px;
+            border: 2px solid peru;
+            position: absolute;
+            background-color: rebeccapurple;
+            font-size: 70%;
+            outline: 0;
+        }
+
+        .Error {
+            color: red;
+            position: absolute;
+            left: 20%;
+            top: 14%;
+        }
+
+        .Validation {
+            left: 30%;
+            top: 60%;
+            position: absolute;
+            color: red;
+        }
+
+        .buttongreen {
+            font-size: 60%;
+        }
+
+        .h2 {
+            color: green;
+            position: absolute;
+            left: 25%;
+            top: 14%;
+        }
+
+        .h2peru {
+            color: peru;
+            position: absolute;
+            left: 25%;
+            top: 40%;
+        }
+
+        .box {
+            background-color: peru;
+            position: absolute;
+            left: 10%;
+            top: 50%;
+            height: 10%;
+            width: 80%;
+            border-radius: 8px;
+        }
+
+        .box2 {
+            position: absolute;
+            left: 10%;
+            top: 24%;
+            height: 10%;
+            width: 80%;
+            border-radius: 8px;
+        }
+    }
+</style>
+@if (Session["Username"] == null)
+{
+    <h2 class="Error">You are not login :<a href="@Url.Action("CreateAcc", "Home")">LoginAndRegistarationlink </a></h2>
+}
+@if (Session["Username"] != null)
+{
+    <h2 class="h2">Create Room</h2>
+    <div class="box2">
+
+        <form id="CREATEROOM" method="post">
+
+            <div class="form-group">
+
+                <input style="display:none" class="inputgreen" id="CreateRoomprivate" name="CreateRoom" placeholder="CreateRoom">
+                <input style="display:none" class="inputgreen2" id="CreatePasswordprivate" name="CreatePassword" pattern="{1,}" placeholder="CreatePassword" required>
+                <button id="privates" style="display:none" class="buttongreen" type="submit">Createroom</button>
+            </div>
+
+
+        </form>
+        <form id="CREATEROOM" method="post">
+
+            <div class="form-group">
+
+                <input style="display:none" class="inputgreen" id="CreateRoom" name="CreateRoom" placeholder="CreateRoom">
+                <input style="display:none" class="inputgreen2" id="CreatePassword" name="CreatePassword" placeholder="CreatePassword">
+
+            </div>
+
+            <button id="publics" style="display:none" class="buttongreen" type="submit">Createroom</button>
+        </form>
+        <button onclick="Showpublic()" class="buttongreen" id="Public">PublicRoom</button>
+        <button style="left:60%" onclick="ShowAll()" class="buttongreen" id="Public2">PrivateRoom</button>
+    </div>
+
+
+    <h2 class="h2peru">Join Room</h2>
+    <div class="box">
+        <form id="Join" method="post">
+
+            <div class="form-group">
+
+                <input class="input" id="exampleInputPassword1" name="Room" placeholder="Room">
+                <input class="input2" id="exampleInputPassword1" name="Password" placeholder="Password">
+            </div>
+
+            <button type="submit">Join</button>
+        </form>
+
+    </div>
+
+    <form id="Join" method="post">
+
+        <div class="form-group">
+
+            <input style="display:none" id="exampleInputPassword1" name="Room" placeholder="Room" value="Rand456789010">
+            <button class="buttonRand" type="submit">JoininRandompublicRooom</button>
+        </div>
+
+
+    </form>
+
+
+
+
+
+
+    <p class="Validation">@ViewBag.validation @ViewBag.ValidRoom</p>
+}
+<script>
+    function Showpublic() {
+        document.getElementById("Public").style.display = "none";
+        document.getElementById("Public2").style.display = "none";
+        document.getElementById("CreateRoom").style.display = "block";
+        document.getElementById("publics").style.display = "block";
+    }
+    function ShowAll() {
+        document.getElementById("Public2").style.display = "none";
+        document.getElementById("Public").style.display = "none";
+        document.getElementById("CreatePasswordprivate").style.display = "block";
+        document.getElementById("CreateRoomprivate").style.display = "block";
+        document.getElementById("privates").style.display = "block";
+    }
+</script>
+
+
+

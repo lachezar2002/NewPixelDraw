@@ -1,0 +1,665 @@
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\ApplicationInsights.config
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll.config
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.pdb
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe.config
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.rsp
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe.config
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.rsp
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.AppContext.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Console.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Compression.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Claims.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.ValueTuple.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe.config
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.rsp
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\EntityFramework.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.ApplicationInsights.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\WebGrease.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\EntityFramework.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.pdb
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csprojAssemblyReference.cache
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CoreCompileInputs.cache
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CopyComplete
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.dll
+C:\Users\UsrRoza\source\repos\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.pdb
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\ApplicationInsights.config
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll.config
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.pdb
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe.config
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.rsp
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe.config
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.rsp
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.AppContext.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Console.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Compression.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Claims.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.ValueTuple.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe.config
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.rsp
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.ApplicationInsights.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\WebGrease.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.pdb
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csprojAssemblyReference.cache
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CoreCompileInputs.cache
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CopyComplete
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.dll
+C:\Users\UsrRoza\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.pdb
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\ApplicationInsights.config
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll.config
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.pdb
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\EntityFramework.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\WebGrease.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\EntityFramework.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csprojAssemblyReference.cache
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CopyComplete
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.dll
+C:\Users\User\Downloads\NewPixelDraw (1)\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.pdb
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\ApplicationInsights.config
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll.config
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.pdb
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe.config
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.rsp
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe.config
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.rsp
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Managed.Core.targets
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.AppContext.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Collections.Immutable.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Console.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Compression.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.AccessControl.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Claims.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Principal.Windows.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.ValueTuple.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XmlDocument.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe.config
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.rsp
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe.config
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\EntityFramework.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Agent.Intercept.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.ApplicationInsights.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.Web.Infrastructure.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\WebGrease.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\EntityFramework.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.pdb
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual project\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csprojAssemblyReference.cache
+D:\visual project\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CoreCompileInputs.cache
+D:\visual project\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CopyComplete
+D:\visual project\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.dll
+D:\visual project\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.pdb
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\ApplicationInsights.config
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll.config
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.pdb
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\WebGrease.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CopyComplete
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.dll
+C:\Users\User\Desktop\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.pdb
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\ApplicationInsights.config
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll.config
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.pdb
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe.config
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.rsp
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe.config
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.rsp
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Managed.Core.targets
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.AppContext.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Collections.Immutable.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Console.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Compression.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.AccessControl.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Claims.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Principal.Windows.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.ValueTuple.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XmlDocument.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe.config
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.rsp
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe.config
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\EntityFramework.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Agent.Intercept.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.ApplicationInsights.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.Web.Infrastructure.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\WebGrease.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\EntityFramework.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.pdb
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual project\new\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csprojAssemblyReference.cache
+D:\visual project\new\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CoreCompileInputs.cache
+D:\visual project\new\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CopyComplete
+D:\visual project\new\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.dll
+D:\visual project\new\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.pdb
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\ApplicationInsights.config
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll.config
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\NewPixelDraw.pdb
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.exe.config
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\csc.rsp
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.exe.config
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\csi.rsp
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.AppContext.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Collections.Immutable.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Console.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Compression.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.IO.Pipes.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Reflection.Metadata.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.AccessControl.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Claims.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Security.Principal.Windows.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.ValueTuple.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.exe.config
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\vbc.rsp
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\roslyn\VBCSCompiler.exe.config
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\EntityFramework.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Agent.Intercept.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.ApplicationInsights.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.Web.Infrastructure.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\WebGrease.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\EntityFramework.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\EntityFramework.SqlServer.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Helpers.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Mvc.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Optimization.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.Razor.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Deployment.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Web.WebPages.Razor.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Newtonsoft.Json.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Antlr3.Runtime.pdb
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\System.Diagnostics.DiagnosticSource.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.DependencyCollector.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.WindowsServer.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.AI.Web.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projectvis\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csprojAssemblyReference.cache
+D:\projectvis\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CoreCompileInputs.cache
+D:\projectvis\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.csproj.CopyComplete
+D:\projectvis\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.dll
+D:\projectvis\NewPixelDraw\NewPixelDraw\obj\Debug\NewPixelDraw.pdb
